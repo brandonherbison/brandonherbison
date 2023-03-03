@@ -16,7 +16,7 @@ I'm constantly learning new things, and here are some of the technologies and sk
 
 ## 📫 How to Reach Me
 
-Feel free to reach out to me via email at herbisonbrandon@gmail.com or connect with me on https://www.linkedin.com/in/brandonherbison/. I'm always happy to connect with fellow tech enthusiasts!
+Feel free to reach out to me via email at herbisonbrandon@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/brandonherbison/). I'm always happy to connect with fellow tech enthusiasts!
 
 ## 🎉 Things I Enjoy
 
