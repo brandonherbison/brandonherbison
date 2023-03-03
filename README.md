@@ -1,20 +1,27 @@
-### Hi there 👋 I am so happy you're here!
+# Hi there, I'm Brandon!
 
-- 🔭 I’m currently working on a client-side project called Fanalytics. It uses NFL data from a third-party API and displays it using Chart.js.
-- 🌱 I’m currently learning about web scraping with Python using the BeautifulJuice library, and TensorFlow for machine learning.
-- 🤔 I’m looking for help with brainstorming new project ideas.
-- 📫 You can reach me at herbisonbrandon@gmail.com or message me on LinkedIn - https://www.linkedin.com/in/brandonherbison/
-<!--
-**brandonherbison/brandonherbison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Software Engineer with a passion for Full-Stack Development. I love using technology to solve problems and create innovative solutions. 
 
-Here are some ideas to get you started:
+## 🔭 I'm Currently Working On
 
+- <strong>Fanalytics:</strong> A client-side project that pulls NFL statistics from a third party API and displays them using Chart.js.
 
+## 🌱 What I'm Learning
 
-- 👯 I’m looking to collaborate on ...
+I'm constantly learning new things, and here are some of the technologies and skills that I'm currently exploring:
 
-- 💬 Ask me about ...
+- <strong>AWS:</strong> I am currently taking a course to obtain my Certified Cloud Practitioner certification.
+- <strong>BeutifulSoup:</strong> A library that makes web scraping easy using Python.
+- <strong>TensorFlow:</strong> A library for machine learning and artificial intelligence.
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+
+Feel free to reach out to me via email at herbisonbrandon@gmail.com or connect with me on https://www.linkedin.com/in/brandonherbison/. I'm always happy to connect with fellow tech enthusiasts!
+
+## 🎉 Things I Enjoy
+
+- Cooking 🥘
+- Sports 🏈
+- Hanging with my doggo, Theo 🐶
+
+Thanks for stopping by! Don't forget to check out my repositories and let me know what you think.
