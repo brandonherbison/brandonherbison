@@ -19,6 +19,9 @@ I'm constantly learning new things, and here are some of the technologies and sk
 
 Feel free to reach out to me via email at herbisonbrandon@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/brandonherbison/). I'm always happy to connect with fellow tech enthusiasts!
 
+## 💻 Frequently Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonherbison&layout=compact)](https://github.com/brandonherbison/github-readme-stats)
 ## 🎉 Things I Enjoy
 
 - Cooking 🥘
