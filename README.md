@@ -10,7 +10,8 @@ Welcome to my GitHub profile! I'm a Software Engineer with a passion for Full-St
 
 I'm constantly learning new things, and here are some of the technologies and skills that I'm currently exploring:
 
-- <strong>AWS:</strong> I am currently taking a course to obtain my Certified Cloud Practitioner certification.
+- <strong>AWS:</strong> I am currently taking a course to obtain my Certified AWS Developer certification.
+- <strong>C#/.NET</strong> Learning the basics in hopes of writing a small project in the coming weeks.
 - <strong>BeutifulSoup:</strong> A library that makes web scraping easy using Python.
 - <strong>TensorFlow:</strong> A library for machine learning and artificial intelligence.
 
