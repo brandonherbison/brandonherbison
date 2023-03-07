@@ -1,4 +1,4 @@
-[![GitHub followers](https://img.shields.io/github/followers/brandonherbison.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/brandonherbison?tab=followers)
+![](https://komarev.com/ghpvc/?username=brandonherbison)
 # Hi there, I'm Brandon!
 
 Welcome to my GitHub profile! I'm a Software Engineer with a passion for Full-Stack Development. I love using technology to solve problems and create innovative solutions. 
