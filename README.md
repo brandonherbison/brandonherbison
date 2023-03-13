@@ -13,8 +13,7 @@ I'm constantly learning new things, and here are some of the technologies and sk
 
 - <strong>AWS:</strong> I am currently taking a course to become a AWS Certified Developer
 - <strong>C#/.NET:</strong> Learning the basics in hopes of writing a small project in the coming weeks
-- <strong>BeutifulSoup:</strong> A library that makes web scraping easy using Python
-- <strong>TensorFlow:</strong> A library for machine learning and artificial intelligence
+- <strong>TensorFlow:</strong> A library for machine learning and artificial intelligence using Python
 
 ## 📫 How to Reach Me
 
