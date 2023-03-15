@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a Software Engineer with a passion for Full-St
 
 ## 🔭 I'm Currently Working On
 
-- <strong>Fanalytics:</strong> A client-side project that pulls NFL statistics from a third party API and displays them using Chart.js
+- <strong>Portfolio Site:</strong> Using the basics of JavaScript, HTML, and CSS I am building something that is functional and visually appealing.
 
 ## 🌱 What I'm Learning
 
